@@ -17,4 +17,4 @@
         <div align="center">
             <a href="https://www.linkedin.com/in/kauan-paiano-rossa-845802269/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
                 <a href="mailto:kauanprog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-                    <a href=https://wa.me/5548991651183?text=Vim%20pelo%20github><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+                    <a href=https://wa.me/5548991651183?text=Olá%20vim%20pelo%20github><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
