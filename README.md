@@ -1,6 +1,6 @@
 <h1> Olá bem vindo ao perfil! Sou o Kauan Paiano Rossa 😊</h1>
 
-- 🌱 Estou cursando Programador BR Desenvolvedor Full Stack
+- 🌱 Estou cursando Rocketseat Explorer
 <h3>Aqui está algumas de minhas habilidades</h3>
 <br>
 <div>
