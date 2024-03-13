@@ -13,7 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
           <img src="https://chriscamicas.gallerycdn.vsassets.io/extensions/chriscamicas/openedge-abl/1.2.0/1587754986999/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50"/>
           <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" height="50"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/jquery.svg" width="50" height="50"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/>
