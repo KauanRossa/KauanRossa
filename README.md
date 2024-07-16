@@ -9,6 +9,7 @@
       <img height="180aem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRossa&hide_progress=truehttps://github.com/KauanRossa/github-readme-stats"
         <br>
       <div align="center">
+        <img src="https://cordova.apache.org/static/img/cordova_256.png" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
