@@ -1,6 +1,7 @@
 <h1> Olá bem vindo ao perfil! Sou o Kauan Paiano Rossa 😊</h1>
 
-- 🌱 Estou cursando Rocketseat Explorer
+- Atualmente trabalho como dev full-stack na Agrosys, trabalhando com cordova, angularjs, sqlite e progress4gl
+
 <h3>Aqui está algumas de minhas habilidades</h3>
 <br>
 <div>
