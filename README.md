@@ -12,7 +12,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRossa&layout=compact&theme=prussian">
     </a>
     <br>
-    <div align="center" gap="5px">
+    <div align="center" style="display: flex; justify-content: center; align-center: center; gap: 10px">
         <img src="https://cordova.apache.org/static/img/cordova_256.png" width="50" height="50" alt="Cordova"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
