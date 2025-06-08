@@ -25,18 +25,4 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50" alt="SQLite"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
     </div>
-
-    <h3>Feel free to contact me through the options below:</h3>
-    <br>
-    <div align="center">
-        <a href="https://www.linkedin.com/in/kauan-paiano-rossa-845802269/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="mailto:kauanprog@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-        </a>
-        <a href="https://wa.me/5548991651183?text=Olá%20vim%20pelo%20GitHub">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-        </a>
-    </div>
 </div>
