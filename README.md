@@ -1,7 +1,7 @@
 <h1>Hi, welcome to my profile! I'm Kauan Paiano Rossa, a Junior Full-Stack Developer.</h1>
 
 <p>
-  I'm currently working at <strong>Agrosys</strong>, using technologies like Progress 4GL, Python, Electron, jQuery, Cordova, and AngularJS.
+  I'm currently working at <strong>Agrosys</strong>, using technologies like Html, Css, Progress 4GL, Python, Electron, jQuery, Cordova, Sqlite and AngularJS.
 </p>
 
 <h3>My Tech Stack</h3>
