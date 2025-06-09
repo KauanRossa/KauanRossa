@@ -13,7 +13,7 @@
     </div>
     <div align="center">
         <br>
-        <img src="https://chriscamicas.gallerycdn.vsassets.io/extensions/chriscamicas/openedge-abl/1.2.0/1587754986999/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Progress 4GL" style="margin-right: 10px"/>
+        <img src="https://chriscamicas.gallerycdn.vsassets.io/extensions/chriscamicas/openedge-abl/1.2.0/1587754986999/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Progress 4GL"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
