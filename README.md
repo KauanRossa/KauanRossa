@@ -7,13 +7,13 @@
 <h3>My Tech Stack</h3>
 <br>
 <div>
-    <a href="https://github.com/KauanRossa">
+    <div>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanRossa&show_icons=true&theme=prussian">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRossa&layout=compact&theme=prussian">
-    </a>
-    <br>
-    <div style="display: flex; justify-content: center; align-center: center; gap: 10px;margin-top: 20px;">
-        <img src="https://chriscamicas.gallerycdn.vsassets.io/extensions/chriscamicas/openedge-abl/1.2.0/1587754986999/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Progress 4GL"/>
+    </div>
+    <div align="center">
+        <br>
+        <img src="https://chriscamicas.gallerycdn.vsassets.io/extensions/chriscamicas/openedge-abl/1.2.0/1587754986999/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Progress 4GL" style="margin-right: 10px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
